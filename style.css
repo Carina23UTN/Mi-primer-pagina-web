@@ -1,0 +1,74 @@
+  @import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Poppins&family=Roboto&family=Slackside+One&family=Yuji+Hentaigana+Akari&display=swap');
+
+
+         /*MENU*/
+  
+.Menu{
+  background: linear-gradient(to right, rgb(68, 156, 233), rgb(196, 125, 227), rgb(105, 206, 102)  );
+  font-family:'Poppins', sans-serif; 
+  display: flex;
+  justify-content: space-around;
+  align-items: center; 
+}
+p{
+  color:white ;
+  font-size: 40px;
+}
+a{
+  color: white;  
+  text-decoration: none;
+  font-size: 30px;  
+  padding: 100px;
+  margin: 20px;
+}
+
+        /*HERO*/
+.Hero{
+  background: linear-gradient(to right, rgb(68, 156, 233), rgb(196, 125, 227), rgb(105, 206, 102)  );
+  font-family:'Poppins', sans-serif; 
+  color: white; 
+  }
+  
+h2{
+  font-size: 100px;
+  padding-left: 800px;  
+  /*background-color: red;*/
+  
+}
+h1{
+  font-size: 60px;
+  padding-left: 800px;  
+  /*background-color: blue;*/
+}
+.Boton{
+  display: flex;
+  justify-content: center;  
+  
+}
+.Boton1{
+    min-width: 30px;
+    height: 40px;
+    color: black;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border: 2px solid white;
+    background: white;
+    
+  }
+  .Boton1:hover {
+    background-color: #EA4FE7;
+    border:#EA4FE7;
+    color: white;    
+  }
+
+.Iconos{
+  font-size: 40px;
+ /*background-color: aqua;*/
+}
+
+
