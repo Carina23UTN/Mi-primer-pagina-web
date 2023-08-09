@@ -26,20 +26,20 @@ a{
 .Hero{
   background: linear-gradient(to right, rgb(68, 156, 233), rgb(196, 125, 227), rgb(105, 206, 102)  );
   font-family:'Poppins', sans-serif; 
-  color: white; 
+  color: white;   
   }
   
-h2{
-  font-size: 100px;
-  padding-left: 800px;  
-  /*background-color: red;*/
-  
-}
 h1{
-  font-size: 60px;
-  padding-left: 800px;  
-  /*background-color: blue;*/
+  font-size: 150px;
+  padding-left: 400px;  
+  color: brown;
 }
+
+h2{
+  font-size: 60px;
+  padding-left: 400px; 
+ }
+ 
 .Boton{
   display: flex;
   justify-content: center;  
@@ -58,17 +58,21 @@ h1{
     outline: none;
     border: 2px solid white;
     background: white;
-    
   }
+ 
   .Boton1:hover {
     background-color: #EA4FE7;
     border:#EA4FE7;
     color: white;    
   }
 
-.Iconos{
+
+
+.Iconos {
   font-size: 40px;
- /*background-color: aqua;*/
+  display: flex;
+  flex-direction: column; 
+  align-items: flex-start; 
+  margin-top: 20px;
+  margin-left: 420px;
 }
-
-
