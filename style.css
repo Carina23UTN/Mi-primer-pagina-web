@@ -179,13 +179,20 @@ font-family:'Poppins', sans-serif;
 
 
 /*FOOTER*/
-.Contactame{
 
+.Contactame{
+  display: flex;
+  justify-content: space-between;
   background-color: black;
   color: white;
   font-family:'Poppins', sans-serif; 
 }
 
+
+.telmail, .Redes, .Contactarmail{
+  padding: 50px;
+  font-size: 20px;
+}
 
 
 
