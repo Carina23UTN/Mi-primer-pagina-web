@@ -159,20 +159,25 @@ font-family:'Poppins', sans-serif;
 /*SECCION CONTACTO*/
 
 .Imagendefondo {
-  background-image: url("plaza.jpg");
+  background-image: url(image/plaza.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   text-align: center;
   padding: 100px 0;
   margin-top: 20px;
+  display: flex;
+  justify-content: center;
 }
 
 
 .textocontacto{
   color: white;
   font-family:'Poppins', sans-serif; 
+  margin-right: 20px;
 }
+
+
 
 
 
