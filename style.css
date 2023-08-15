@@ -68,7 +68,7 @@
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  margin-left: 20px;
+  margin-left: 220px;
 
 }
 .Iconos i{
@@ -120,10 +120,13 @@ button{
     color: white;
   }
 
-      /*SOBRE MI*/
+        /*SECCION SOBRE MI*/
+
 .Sobremi{
 background-color:white;
 color: black;
+
+
 
 }
 .contenedorimagenes{
@@ -134,19 +137,56 @@ justify-content: center;
 .imagen{
   width: 350px;
   margin: 40px 10px;
-
   transition: 0.5s;
   object-fit: cover;
-
 }
+
 .imagen:hover{
   transform: scale(1.2);
 }
 
-.titulo{
-  color: white;
-  font-family:'Poppins', sans-serif; 
+.Tituloydescripcion{
+background-color:burlywood;
+text-align: center;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+color: black;
+font-family:'Poppins', sans-serif; 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.titulo{
+  color:black;
+  font-family:'Poppins', sans-serif; 
+  margin-left: 500px;
+}
+
+
 
 .Textos{
   color: black;
@@ -169,5 +209,5 @@ justify-content: center;
   font-family:'Poppins', sans-serif; 
   display: flex;
   justify-content: center;
-}
+}*/
 
