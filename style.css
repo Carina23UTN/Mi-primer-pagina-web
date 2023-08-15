@@ -125,9 +125,6 @@ button{
 .Sobremi{
 background-color:white;
 color: black;
-
-
-
 }
 .contenedorimagenes{
 display: flex;
@@ -156,6 +153,8 @@ color: black;
 font-family:'Poppins', sans-serif; 
 }
 
+/*FALTA CAMBIAR ANIMACION DE BOTON MAS"
+
 /*SECCION CONTACTO*/
 
 .Imagendefondo {
@@ -175,56 +174,29 @@ font-family:'Poppins', sans-serif;
   color: white;
   font-family:'Poppins', sans-serif; 
   margin-right: 20px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*.titulo{
-  color:black;
-  font-family:'Poppins', sans-serif; 
-  margin-left: 500px;
-}
-
-
-
-.Textos{
-  color: black;
-  font-family:'Poppins', sans-serif; 
-  width: 350px;
-  margin: 0 10px;
- }
- span{
-  font-weight: bold;
- }
-
-.Contacto{
-  background-image: url(plaza.jpg);
-  background-repeat: no-repeat;
   
- 
 }
-.txtcontacto{
-  color: black;
+
+
+/*FOOTER*/
+.Contactame{
+
+  background-color: black;
+  color: white;
   font-family:'Poppins', sans-serif; 
-  display: flex;
-  justify-content: center;
-}*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
