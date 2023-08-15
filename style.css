@@ -146,7 +146,7 @@ justify-content: center;
 }
 
 .Tituloydescripcion{
-background-color:burlywood;
+background-color:white;
 text-align: center;
 display: flex;
 flex-direction: column;
@@ -158,14 +158,21 @@ font-family:'Poppins', sans-serif;
 
 /*SECCION CONTACTO*/
 
-.Contacto{
-  background-image: url(plaza.jpg);
-  
+.Imagendefondo {
+  background-image: url("plaza.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  text-align: center;
+  padding: 100px 0;
+  margin-top: 20px;
 }
 
 
-
-
+.textocontacto{
+  color: white;
+  font-family:'Poppins', sans-serif; 
+}
 
 
 
