@@ -1,121 +1,173 @@
-
- 
- @import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Poppins&family=Roboto&family=Slackside+One&family=Yuji+Hentaigana+Akari&display=swap');
-
-
-         /*MENU*/
-
-
-body{
-    font-family:'Poppins', sans-serif; 
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Poppins&family=Roboto&family=Slackside+One&family=Yuji+Hentaigana+Akari&display=swap');
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-  
+
+        /*MENU*/
+
 .Menu{
-    background: linear-gradient(to right, rgb(68, 156, 233), rgb(196, 125, 227), rgb(105, 206, 102)  );
-    font-family:'Poppins', sans-serif; 
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center; 
-}
 
-
-p{
-  color:white ;
-  font-size: 40px;
-}
-a{
-  color: white;  
-  text-decoration: none;
-  font-size: 30px;  
-  padding: 100px;
-  margin: 20px;
-}
-
-        /*HERO*/
-.Hero{
-  background: linear-gradient(to right, rgb(68, 156, 233), rgb(196, 125, 227), rgb(105, 206, 102)  );
-  font-family:'Poppins', sans-serif; 
-  color: white;   
-  text-align:center;
-  }
-  
-h1{
-  font-size: 150px;
-  padding-left: 400px;  
-  color: white;
-
-  margin: 10px 0
-
-}
-
-h2{
-  font-size: 60px;
-  padding-left: 400px; 
-  margin: 10px 0;
- }
-
-.Boton{
+  width: 100%;
+  height: 150px;
   display: flex;
-  justify-content: center;  
- }
- 
-.Boton1{
-    min-width: 30px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(to right, rgb(68, 156, 233), rgb(196, 125, 227), rgb(105, 206, 102)  );
+}
+
+.logo{
+  width: 30%; 
+}
+
+.titulo{
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  font-family:'Poppins', sans-serif; 
+}
+
+.nav{
+  width: 70%;
+  font-family:'Poppins', sans-serif; 
+}
+.navUl{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.nav .navUl .secciones{
+ font-size: 25px;
+ color: white;
+ width: 40%;
+ text-decoration: none;
+ font-weight: bold;
+}
+
+.main{
+  margin-top: 30px;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(to right, rgb(68, 156, 233), rgb(196, 125, 227), rgb(105, 206, 102)  );
+}
+.Iconos{
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 20px;
+
+}
+.Iconos i{
+  font-size: 30px;
+  color: white;
+}
+
+.boxNombre{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  position: relative;
+  top: -50px;
+  right: 60%;
+}
+
+.boxNombre h1{
+  font-size: 50px;
+  font-family:'Poppins', sans-serif; 
+  color: white;
+}
+
+.boxNombre h2{
+  font-size: 30px;
+  font-family:'Poppins', sans-serif; 
+  color: white;
+}
+
+hr{
+  color: white;
+}
+
+button{
+  font-family:'Poppins', sans-serif; 
+    min-width: 130px;
     height: 40px;
     color: black;
     padding: 5px 10px;
-    font-weight: bold;
+    font-weight:lighter;
     cursor: pointer;
     transition: all 0.3s ease;
     position: relative;
     display: inline-block;
     outline: none;
-    border: 2px solid white;
-    background: white;    
+    background: white
   }
-  
- 
-  .Boton1:hover {
-    background-color: #EA4FE7;
-    border:#EA4FE7;
-    color: white; 
+  button:hover {
+    background:#EA4FE7;
+    color: white;
   }
-    
-.Iconos {
-  font-size: 40px;
-  display: flex;
-  flex-direction: column; 
-  align-items: flex-start; 
-  margin-top: 20px;
-  margin-left: 420px;
-}
 
-hr{
-  display: block;
-  width: 1px; 
-  height: 400px; 
-  background-color: white; 
-  margin: 20px;
-  margin-top: 20px; 
-  margin-bottom: 50px;
-}
-
-          /*SOBRE MI*/
+      /*SOBRE MI*/
 .Sobremi{
-  background-color: blue;
-  }
+background-color:white;
+color: black;
 
-
-  /*FALTA DAR HOVER*/
-.Imagenes{
-  display: flex;
-  justify-content: center;
-  margin-top: 100px;  
 }
-  
+.contenedorimagenes{
+display: flex;
+justify-content: center;
 
+}
+.imagen{
+  width: 350px;
+  margin: 40px 10px;
+
+  transition: 0.5s;
+  object-fit: cover;
+
+}
+.imagen:hover{
+  transform: scale(1.2);
+}
+
+.titulo{
+  color: white;
+  font-family:'Poppins', sans-serif; 
+}
 
 .Textos{
+  color: black;
+  font-family:'Poppins', sans-serif; 
+  width: 350px;
+  margin: 0 10px;
+ }
+ span{
+  font-weight: bold;
+ }
+
+.Contacto{
+  background-image: url(plaza.jpg);
+  background-repeat: no-repeat;
+  
+ 
+}
+.txtcontacto{
+  color: black;
+  font-family:'Poppins', sans-serif; 
+  display: flex;
   justify-content: center;
 }
+
