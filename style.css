@@ -198,15 +198,13 @@ span{
   text-align: center; 
 }
 
-.Galeria img {
-  margin-bottom: 20px; 
-}
 
 .Portf{
   font-family:'Poppins', sans-serif; 
-  font-size: 30px;
+  font-size: 40px;
   display: flex;
   justify-content: center;
+  margin-top: 100px;
 }
 
 .uno{
