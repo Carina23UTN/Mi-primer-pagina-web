@@ -154,6 +154,10 @@ justify-content: center;
 color: black;
 font-family:'Poppins', sans-serif; 
 }
+span{
+  font-weight: bold;
+  font-size: 20px;
+ }
 
 /*FALTA CAMBIAR ANIMACION DE BOTON MAS"
 
