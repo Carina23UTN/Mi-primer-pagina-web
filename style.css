@@ -192,9 +192,28 @@ span{
 
 /*SECCION PORTFOLIO"*/
 
+.Galeria {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centra horizontalmente el contenido */
+  text-align: center; /* Centra el texto en la sección de galería */
+}
+
+/* Estilos para las imágenes */
+.Galeria img {
+  margin-bottom: 20px; /* Agregamos un margen inferior entre las imágenes */
+}
+
+
+
+
+
+
 .Portf{
   font-family:'Poppins', sans-serif; 
   font-size: 30px;
+  display: flex;
+  justify-content: center;
 }
 
 .Linea1{
