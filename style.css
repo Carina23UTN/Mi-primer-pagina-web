@@ -181,7 +181,6 @@ span{
   justify-content: center;
 }
 
-
 .textocontacto{
   color: white;
   font-family:'Poppins', sans-serif; 
@@ -195,29 +194,19 @@ span{
 .Galeria {
   display: flex;
   flex-direction: column;
-  align-items: center; /* Centra horizontalmente el contenido */
-  text-align: center; /* Centra el texto en la sección de galería */
+  align-items: center;
+  text-align: center; 
 }
 
-/* Estilos para las imágenes */
 .Galeria img {
-  margin-bottom: 20px; /* Agregamos un margen inferior entre las imágenes */
+  margin-bottom: 20px; 
 }
-
-
-
-
-
 
 .Portf{
   font-family:'Poppins', sans-serif; 
   font-size: 30px;
   display: flex;
   justify-content: center;
-}
-
-.Linea1{
-   
 }
 
 .uno{
@@ -233,9 +222,7 @@ span{
     padding: 30px;
 }
 
-.Linea2{
-    
-}
+
 .tres{
     width: auto;
     height: 140px;
@@ -250,11 +237,6 @@ span{
     width: 250px;
     height: 300px;
 }
-
-.Linea3{
-    
-}
-
 .seis{
     width: 300px;
     height: 200px;
@@ -264,21 +246,24 @@ span{
     height: 200px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.botonver{
+  font-family:'Poppins', sans-serif; 
+  min-width: 130px;
+  height: 40px;
+  color: white;
+  padding: 5px 10px;
+  font-weight:lighter;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 20px;
+  outline: none;
+  background:#333333;
+ 
+}
+.botonver:hover {
+  background:#EA4FE7;
+  color: white;
+  }
 
 /*FOOTER*/
 
