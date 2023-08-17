@@ -162,6 +162,7 @@ span{
  .Titulo{
   font-size: 40px;
   font-weight: bold;
+  text-align:left;
  }
 
 /*FALTA CAMBIAR ANIMACION DE BOTON MAS"
@@ -191,9 +192,62 @@ span{
 
 /*SECCION PORTFOLIO"*/
 
-.Portfolio{
-  background-color: aquamarine;
+.Portf{
+  font-family:'Poppins', sans-serif; 
+  font-size: 30px;
 }
+
+.Linea1{
+   
+}
+
+.uno{
+    width: auto;
+    height: 400px;
+      
+}
+
+.dos{
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    padding: 30px;
+}
+
+.Linea2{
+    
+}
+.tres{
+    width: auto;
+    height: 140px;
+    
+}
+.cuatro{
+    width: 250px;
+    height: 300px;
+}
+
+.cinco{
+    width: 250px;
+    height: 300px;
+}
+
+.Linea3{
+    
+}
+
+.seis{
+    width: 300px;
+    height: 200px;
+}
+.siete{
+    width: 300px;
+    height: 200px;
+}
+
+
+
+
 
 
 
