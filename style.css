@@ -258,6 +258,8 @@ span{
   margin-top: 20px;
   outline: none;
   background:#333333;
+ /* margin-left: 10px;*/
+  margin-right: -300px;
  
 }
 .botonver:hover {
