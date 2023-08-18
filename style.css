@@ -169,13 +169,13 @@ span{
  .descripcion{
   font-size: 20px;
   text-align:left;
-  margin-right: 340px; 
+  margin-right: 500px; 
   margin-left: 340px;
 
  }
  .botonmas{
   align-self: flex-start; 
-  margin-left: 1000px;
+  margin-left: 320px;
 
   font-family:'Poppins', sans-serif; 
     min-width: 130px;
