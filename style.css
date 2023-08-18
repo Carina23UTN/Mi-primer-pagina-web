@@ -208,36 +208,34 @@ span{
 }
 
 .uno{
-    width: 280px;
-    height: 500px;
-      
+    width: 300px;
+    height: 700px;      
 }
 
 .dos{
-    width: 530px;
-    height: 300px;
+    width: 600px;
+    height: 500px;
 }
 
 .tres{
-    width: 200px;
-    height: 300px;
-    
+    width: 300px;
+    height: 200px;    
 }
 .cuatro{
     width: 300px;
-    height: 300px;
+    height: 400px;
 }
 
 .cinco{
     width: 300px;
-    height: 300px;
+    height: 400px;
 }
 .seis{
-    width: 400px;
+    width: 450px;
     height: 300px;
 }
 .siete{
-    width: 400px;
+    width: 450px;
     height: 300px;
 }
 
@@ -254,7 +252,7 @@ span{
   outline: none;
   background:#333333;
  /* margin-left: 10px;*/
-  margin-right: -300px;
+  margin-right: -500px;
  
 }
 .botonver:hover {
