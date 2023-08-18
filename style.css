@@ -211,34 +211,56 @@ span{
     width: 300px;
     height: 700px;      
 }
+.uno:hover{
+    transform: scale(1.2);
+  }
+
 
 .dos{
     width: 600px;
     height: 500px;
+}
+.dos:hover{
+  transform: scale(1.2);
 }
 
 .tres{
     width: 300px;
     height: 200px;    
 }
+.tres:hover{
+  transform: scale(1.2);
+}
 .cuatro{
     width: 300px;
     height: 400px;
-}
+  }
+  .cuatro:hover{
+    transform: scale(1.2);
+  }
 
 .cinco{
     width: 300px;
     height: 400px;
 }
+
+.cinco:hover{
+  transform: scale(1.2);
+}
 .seis{
     width: 450px;
     height: 300px;
+}
+.seis:hover{
+  transform: scale(1.2);
 }
 .siete{
     width: 450px;
     height: 300px;
 }
-
+.siete:hover{
+  transform: scale(1.2);
+}
 .botonver{
   font-family:'Poppins', sans-serif; 
   min-width: 130px;
