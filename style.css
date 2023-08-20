@@ -324,25 +324,38 @@ span{
   background-color: black;
   color: white;
   font-family:'Poppins', sans-serif; 
-}
-
-.telmail, .Redes, .Contactarmail{
+  align-items: center;
   padding: 50px;
   font-size: 20px;
+  text-align: center;
 }
 
 .telmail{
-  margin-left: 150px;
+ margin-left: 150px;
+ text-align: center;
 }
 
+.telmail i{
+  display: block;
+  margin-bottom: 10px;
+}
 
 .Contactarmail{
   margin-right: 150px;
+ }
+
+.Redes i{
+  margin-right: 60px;
 }
 
+.txtredes{
+  margin-bottom: 30px;
+}
 
-
-
+.Copy{
+  margin-top: 20px;
+  font-size: 10px;
+}
 
 
 
