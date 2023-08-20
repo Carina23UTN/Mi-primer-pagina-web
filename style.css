@@ -330,15 +330,55 @@ span{
   text-align: center;
 }
 
-.telmail{
- margin-left: 150px;
- text-align: center;
+.tel, .Mail {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px; 
 }
 
-.telmail i{
-  display: block;
-  margin-bottom: 10px;
+.tel i, .correo i {
+  margin-right: 5px;
 }
+
+.phone, .correo {
+  margin: 0;
+  margin-left: 5px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .mantenercontacto {
   margin-bottom: 30px;
   margin-left: 120px;
