@@ -202,7 +202,7 @@ span{
 
 /*FALTA CAMBIAR ANIMACION DE BOTON MAS"
 
-/*SECCION CONTACTO*/
+             /*SECCION CONTACTO*/
 
 .Imagendefondo {
   background-image: url(image/plaza.jpg);
@@ -222,9 +222,12 @@ span{
   margin-right: 20px;
   
 }
+/*AGREGAR FORMULARIO AL HACER CLIC EN CONTACTO*/
 
 
-/*SECCION PORTFOLIO"*/
+
+
+/*SECCION PORTFOLIO"* /
 /*falta dar especio entre img"*/
 
 .Galeria {
@@ -327,58 +330,14 @@ span{
   align-items: center;
   padding: 50px;
   font-size: 20px;
-  text-align: center;
+  text-align: center;  
 }
 
 .tel, .Mail {
   display: flex;
   align-items: center;
-  margin-bottom: 10px; 
+  margin-bottom: 20px; 
 }
-
-.tel i, .correo i {
-  margin-right: 5px;
-}
-
-.phone, .correo {
-  margin: 0;
-  margin-left: 5px; 
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .mantenercontacto {
   margin-bottom: 30px;
   margin-left: 120px;
@@ -399,8 +358,7 @@ span{
 
 .Contactarmail {
   margin-right: 150px;
-  text-align: center;
-  
+  text-align: center;  
 }
 
 .Contactarmail form {
