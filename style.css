@@ -198,6 +198,8 @@ span{
   background:white;
   color:#EA4FE7;
   }
+
+  
  
 
 /*FALTA CAMBIAR ANIMACION DE BOTON MAS"
@@ -317,6 +319,11 @@ span{
 .botonver:hover {
   background:#EA4FE7;
   color: white;
+  }
+
+  .botonver:active {
+    background-color: #BF35BC; 
+    color: white; 
   }
 
 /*FOOTER*/
