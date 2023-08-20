@@ -339,10 +339,14 @@ span{
   display: block;
   margin-bottom: 10px;
 }
-.mantenercontacto, .txtredes {
+.mantenercontacto {
   margin-bottom: 30px;
+  margin-left: 120px;
 }
-
+.txtredes {
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
 .Redes i {
   margin: 20px; 
 }
@@ -356,6 +360,7 @@ span{
 .Contactarmail {
   margin-right: 150px;
   text-align: center;
+  
 }
 
 .Contactarmail form {
@@ -363,7 +368,8 @@ span{
   align-items: center; 
 }
 
-.Contactarmail label,Contactarmail input,.Contactarmail button {
+.Contactarmail label, .Contactarmail input,.Contactarmail button {
+  
   height: 40px; 
   box-sizing: border-box;
   margin: 10px 5px; 
