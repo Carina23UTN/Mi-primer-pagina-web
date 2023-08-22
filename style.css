@@ -261,6 +261,7 @@ span{
 .uno{
     width: 300px;
     height: 700px;      
+    margin: 0 10px;
 }
 .uno:hover{
     transform: scale(1.2);
@@ -269,6 +270,8 @@ span{
 .dos{
     width: 600px;
     height: 500px;
+    margin-bottom: 20px;
+    padding: 0 10px;
 }
 .dos:hover{
   transform: scale(1.2);
@@ -276,7 +279,9 @@ span{
 
 .tres{
     width: 300px;
-    height: 200px;    
+    height: 200px; 
+    margin-bottom: 20px; 
+    
 }
 .tres:hover{
    transform: scale(1.2);
@@ -284,6 +289,7 @@ span{
 .cuatro{
     width: 300px;
     height: 400px;
+    margin-bottom: 20px;
   }
   .cuatro:hover{
     transform: scale(1.2);
@@ -292,6 +298,7 @@ span{
 .cinco{
     width: 300px;
     height: 400px;
+    margin-bottom: 20px;
 }
 
 .cinco:hover{
@@ -301,6 +308,7 @@ span{
 .seis{
     width: 450px;
     height: 300px;
+    margin: 0 10px;
 }
 
 .seis:hover{
