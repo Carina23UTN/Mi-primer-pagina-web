@@ -8,6 +8,10 @@
   }
         /*MENU*/
 
+html{
+  scroll-behavior: smooth;
+}
+
 .Hero{
   width: 100%;
   height: 150px; 
