@@ -94,9 +94,17 @@ html{
 
 /*ver si se puede dar color diferente a cada icono, dar class*/
 
-i:hover{
+.icono-behance:hover{
   color: blue;
 }
+
+.icono-instagram:hover{
+  color: orange;
+}
+.icono-pinterest:hover{
+  color:red
+}
+
 
 .boxNombre{
   display: flex;
@@ -302,6 +310,8 @@ h1{
 }
 
 
+
+
 /*SECCION PORTFOLIO"* /
 /*falta dar especio entre img"*/
 
@@ -452,6 +462,19 @@ h1{
 }
 .Redes i {
   margin: 20px; 
+}
+
+/*Agregar Hover para los icnonos*/
+
+.icono-behance:hover{
+  color: blue;
+}
+
+.icono-instagram:hover{
+  color: orange;
+}
+.icono-pinterest:hover{
+  color:red
 }
 
 .Redes .Copy {
