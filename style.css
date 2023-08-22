@@ -91,6 +91,13 @@ html{
   color: white;
 }
 
+
+/*ver si se puede dar color diferente a cada icono, dar class*/
+
+i:hover{
+  color: blue;
+}
+
 .boxNombre{
   display: flex;
   flex-direction: column;
@@ -235,7 +242,7 @@ span{
   
 }
 
-/*POPUP_Contacto_Formulario*/
+/*POPUP_Contacto_Formulario .FALTA QUE EL TXT QUEDE DENTRO DEL CAMPO VER SI CORRESPONDE*/
 
 section{
   background-color: white;  
@@ -293,6 +300,7 @@ h1{
   background-color: #BF35BC; 
   color: white; 
 }
+
 
 /*SECCION PORTFOLIO"* /
 /*falta dar especio entre img"*/
@@ -499,5 +507,8 @@ h1{
   background-color: #BF35BC; 
   color: white; 
 }
+
+
+
 
  
