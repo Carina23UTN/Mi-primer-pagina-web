@@ -17,7 +17,8 @@
   justify-content: space-between;
   align-items: center; 
   background: linear-gradient(to right, rgb(68, 156, 233), rgb(196, 125, 227), rgb(105, 206, 102)  );
-}
+  }
+
 
 .logo{
   width: 30%; 
@@ -60,7 +61,7 @@
 }
 
 .main{
-  margin-top: 30px;
+  margin-top: 0px;
   width: 100%;
   height: 100vh;
   display: flex;
