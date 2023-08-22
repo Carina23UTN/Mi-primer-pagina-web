@@ -270,7 +270,7 @@ h1{
   padding: 8px;
   margin-bottom: 10px;
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 1px;
 }
 
 .Formulario button {
@@ -289,18 +289,10 @@ h1{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-/*AGREGAR FORMULARIO AL HACER CLIC EN CONTACTO*/
-
+.Formulario button:active {
+  background-color: #BF35BC; 
+  color: white; 
+}
 
 /*SECCION PORTFOLIO"* /
 /*falta dar especio entre img"*/
