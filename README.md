@@ -1,4 +1,4 @@
-#Sobre el Proyecto
+# Sobre el Proyecto
 Algunos temas vistos en la cursada, entre otros:
 - HTML
 - CSS
@@ -9,7 +9,7 @@ Algunos temas vistos en la cursada, entre otros:
 - Personalizar GitHube
 
 # Proceso de elaboración
-- Armado de la estrcutura de HTML
+- Armado de la estructura de HTML
 - Ir dando estilo desde CSS
 - Ir guardando modificaciones en GitHube
 
