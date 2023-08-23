@@ -11,8 +11,8 @@ Algunos temas vistos en la cursada, entre otros:
 
 # Proceso de elaboración
 -  Armado de la estrcutura de HTML
--   Ir dando estilo desde CSS
-- Ir guardando modificaciones en GitHube
+-  Ir dando estilo desde CSS
+-  Ir guardando modificaciones en GitHube
 
 ####  Este Readme fue realizado utilizando editor https://pandao.github.io/editor.md/en.html
 
