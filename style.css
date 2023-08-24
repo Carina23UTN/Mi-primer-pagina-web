@@ -117,12 +117,14 @@ html{
   font-size: 50px;
   font-family:'Poppins', sans-serif; 
   color: white;
+  margin-left: 100px;
 }
 
 .boxNombre h2{
   font-size: 30px;
   font-family:'Poppins', sans-serif; 
   color: white;
+  margin-left: 100px;
 }
 
 hr{
@@ -131,23 +133,21 @@ hr{
 
 button{
   font-family:'Poppins', sans-serif; 
-    min-width: 130px;
-    height: 40px;
     color: black;
-    padding: 5px 10px;
-    font-weight:lighter;
     cursor: pointer;
     transition: all 0.3s ease;
     position: relative;
     display: inline-block;
     outline: none;
-    background: white
+    background: white;
   }
+
   button:hover {
     background:#EA4FE7;
     color: white;
   }
 
+  
         /*SECCION SOBRE MI*/
 
 .Sobremi{
@@ -225,7 +225,7 @@ span{
   color:#EA4FE7;
 }
 
-/*FALTA CAMBIAR ANIMACION DE BOTON MAS"
+/*Ver animacion de boton MAS"*/
 
              /*SECCION CONTACTO*/
 
@@ -311,7 +311,7 @@ h1{
 
 
 /*SECCION PORTFOLIO"* /
-/*falta dar especio entre img"*/
+/Dar especio entre img"*/
 
 .Galeria {
   display: flex;
