@@ -14,13 +14,26 @@ Algunos temas vistos en la cursada, entre otros:
 
 - 2º:  Armado de la estructura de HTML: Identificar secciones del modelo elegido. 
 
-- 3º:  Una vez definida la estrcutura fui dando estilo desde CSS a cada secccion. 
+- 3º:  Una vez definida la estructura del HTML fui dando estilo desde CSS a cada secccion. 
 
-- 4º:  Crear un Repositorio local y en GH, e ir guardando modificaciones para actualizar cambios.
+- 4º Para poder realizar el Trabajo final, ademas del repaso de lo visto en clases y material de estudio , visite, entre otros, los siguientes sitios:
 
-- 5º:  Crear el Readme del Proyecto.
+https://icons.getbootstrap.com/icons/whatsapp/ 
+https://markodenic.com/tools/buttons-generator/
+https://fonts.google.com/
+https://www.sololearn.com/
+https://www.youtube.com/
+https://phuoc.ng/collection/css-layout/
+https://www.frontendmentor.io/
+https://hero-generator.netlify.app/
+https://www.photoroom.com/es/herramientas/eliminador-de-fondos
+https://chat.openai.com/
 
-- 6º: Personalizar perfil de GH.
+- 5º:  Crear un Repositorio local y en GH, e ir guardando modificaciones para actualizar cambios.
+
+- 6º:  Crear el Readme del Proyecto.
+
+- 7º: Personalizar perfil de GH.
 
 ####  Este Readme fue realizado utilizando editor https://pandao.github.io/editor.md/en.html
 
