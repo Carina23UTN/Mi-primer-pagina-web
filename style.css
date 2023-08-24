@@ -72,8 +72,7 @@ html{
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  align-items: center;
- 
+  align-items: center; 
   background: linear-gradient(to right, rgb(68, 156, 233), rgb(196, 125, 227), rgb(105, 206, 102)  );
 }
 
@@ -91,7 +90,6 @@ html{
   color: white;
 }
 
-
 .icono-behance:hover{
   color: blue;
 }
@@ -102,7 +100,6 @@ html{
 .icono-pinterest:hover{
   color:red
 }
-
 
 .boxNombre{
   display: flex;
@@ -247,6 +244,7 @@ span{
   margin-right: 20px;
   
 }
+
 
 /*POPUP_Contacto_Formulario .FALTA QUE EL TXT QUEDE DENTRO DEL CAMPO VER SI CORRESPONDE*/
 
@@ -517,6 +515,7 @@ h1{
   border: none;
   cursor: pointer;
   transition: background-color 0.5s, color 0.5s; 
+  width: 150px;
 }
 
 .Contactarmail button:hover {
