@@ -241,8 +241,11 @@ span{
 .textocontacto{
   color: white;
   font-family:'Poppins', sans-serif; 
-  margin-right: 20px;
-  
+  margin-right: 100px;  
+}
+
+.Imagendefondo button {
+  width: 200px;
 }
 
 
