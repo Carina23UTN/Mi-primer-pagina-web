@@ -92,14 +92,12 @@ html{
 }
 
 
-/*ver si se puede dar color diferente a cada icono, dar class*/
-
 .icono-behance:hover{
   color: blue;
 }
 
 .icono-instagram:hover{
-  color: orange;
+  color:orange;
 }
 .icono-pinterest:hover{
   color:red
